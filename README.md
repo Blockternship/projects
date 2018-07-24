@@ -15,7 +15,7 @@ To get started submit an [issue](https://github.com/Blockternship/projects/issue
 - Why you think this is worth working on. 
 - Your area of expertise or what you're interested in learning. 
 - What you think you'll need, whether it's developers or educational material. 
-- Contact info (GitHub, Keybase) 
+- Contact info (GitHub, Keybase, as well as Twitter, email, Riot, or any other way you want to connect) 
 
 Next we'll review you're submissions and ask any relevant questions in the thread. 
 
